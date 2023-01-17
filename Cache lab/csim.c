@@ -6,8 +6,7 @@
 #include <time.h>
 #include <unistd.h>
 
-// Name: Leo Lin
-// AndrewID: hungfanl
+// Leo Lin
 
 int opt, s, b, E;
 unsigned long S, B;
